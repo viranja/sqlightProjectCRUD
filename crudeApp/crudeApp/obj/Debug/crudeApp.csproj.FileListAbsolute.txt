@@ -1,0 +1,9 @@
+D:\Viranja\Samples\appWithSqlLight\crudeApp\crudeApp\bin\Debug\crudeApp.exe
+D:\Viranja\Samples\appWithSqlLight\crudeApp\crudeApp\bin\Debug\crudeApp.pdb
+D:\Viranja\Samples\appWithSqlLight\crudeApp\crudeApp\bin\Debug\System.Data.SQLite.dll
+D:\Viranja\Samples\appWithSqlLight\crudeApp\crudeApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Viranja\Samples\appWithSqlLight\crudeApp\crudeApp\obj\Debug\crudeApp.Form1.resources
+D:\Viranja\Samples\appWithSqlLight\crudeApp\crudeApp\obj\Debug\crudeApp.Properties.Resources.resources
+D:\Viranja\Samples\appWithSqlLight\crudeApp\crudeApp\obj\Debug\crudeApp.csproj.GenerateResource.Cache
+D:\Viranja\Samples\appWithSqlLight\crudeApp\crudeApp\obj\Debug\crudeApp.exe
+D:\Viranja\Samples\appWithSqlLight\crudeApp\crudeApp\obj\Debug\crudeApp.pdb
